@@ -28,8 +28,8 @@ export default function App() {
         {/* CTA Button */}
         <button
           className="rounded-full bg-white px-8 py-4 font-outfit text-2xl text-black font-bold
-                     transition-all duration-300 hover:bg-blue-500 hover:scale-105 
-                     hover:shadow-lg hover:shadow-blue-500/30 backdrop-blur-sm
+                     transition-all duration-300 hover:bg-white/75 hover:scale-105 
+                     hover:shadow-lg hover:shadow-white/30 backdrop-blur-sm
                      animate-pulse-slow"
           onClick={() => console.log("Start Now clicked")}
         >
